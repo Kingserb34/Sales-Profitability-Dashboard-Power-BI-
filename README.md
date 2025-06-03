@@ -37,7 +37,7 @@ This Power BI project visualizes sales and profitability insights using Microsof
 
 ## 🖼️ Preview
 
-![Power BI Dashboard Preview](assets/Financial_Dashboard.png)
+![Power BI Dashboard Preview](Financial_Dashboard.png)
 
 ## 📁 Dataset Source
 
