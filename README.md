@@ -33,7 +33,7 @@ This Power BI project visualizes sales and profitability insights using Microsof
 
 ## 🌐 Dashboard Access
 
-> 📈 [(https://app.powerbi.com/reportEmbed?reportId=5d2a5f49-d4d2-4ef2-ae55-bf878d855aff&autoAuth=true&ctid=dfe41fd7-3fc6-45b8-8ddb-5a283993e43a)]
+> 📈 [Power BI Dashboard Link](https://app.powerbi.com/reportEmbed?reportId=5d2a5f49-d4d2-4ef2-ae55-bf878d855aff&autoAuth=true&ctid=dfe41fd7-3fc6-45b8-8ddb-5a283993e43a)
 
 ## 🖼️ Preview
 
